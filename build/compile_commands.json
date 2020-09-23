@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/joao/Transferências/dzo_vsc/build",
+  "command": "/usr/bin/c++   -isystem /usr/include/opencv  -g   -o CMakeFiles/dzo.dir/main.cpp.o -c /home/joao/Transferências/dzo_vsc/main.cpp",
+  "file": "/home/joao/Transferências/dzo_vsc/main.cpp"
+}
+]

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/joao/Transferências/dzo_vsc/main.cpp
+stdio.h
+-
+string
+-
+iostream
+-
+opencv2/opencv.hpp
+-
+

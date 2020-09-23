@@ -1,0 +1,3 @@
+/home/joao/Transferências/dzo_vsc/build/CMakeFiles/rebuild_cache.dir
+/home/joao/Transferências/dzo_vsc/build/CMakeFiles/dzo.dir
+/home/joao/Transferências/dzo_vsc/build/CMakeFiles/edit_cache.dir
